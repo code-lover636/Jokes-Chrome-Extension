@@ -1,0 +1,12 @@
+{
+    "name": "Jokes",
+    "version": "1.0.0",
+    "description": "Get a random joke and laugh",
+    "manifest_version": 3,
+    "author": "Aravind Ashokan",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Jokes",
+        "default_icon": "fav.png"
+    }
+}
